@@ -5,7 +5,7 @@
 
 ## Project Description
 
-My portfolio, highlighting my skills and showing some of the projects i've worked on
+My portfolio highlights my skills and showcases some of the projects I've worked on.
 
 ## Built With
 
