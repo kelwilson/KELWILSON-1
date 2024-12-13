@@ -31,7 +31,7 @@ To get a local copy up and run:
 
 ### LIVE DEMO
 
-Check the live demo here [LIVE DEMO]()
+Check the live demo here [LIVE DEMO](https://kelwilson.netlify.app/)
 
 ## Author
 
