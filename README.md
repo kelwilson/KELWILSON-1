@@ -5,7 +5,7 @@
 
 ## Project Description
 
-My portfolio, highlighting my skills and showing some of the projects i've worked on
+My portfolio highlights my skills and showcases some of the projects I've worked on.
 
 ## Built With
 
@@ -31,7 +31,7 @@ To get a local copy up and run:
 
 ### LIVE DEMO
 
-Check the live demo here [LIVE DEMO]()
+Check the live demo here [LIVE DEMO](https://kelwilson.netlify.app/)
 
 ## Author
 
